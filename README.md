@@ -4,5 +4,5 @@ Scanbot is an Arduino-ESP32 based 360-degree point-cloud scanner, programmed in 
 
 Take a look at Scanbot_Arduino.ino for the C++ source file that gets loaded onto the ESP32.
 
-And if you'd like to play around with the visualizer app, download Processing and load up Scanbot_Visualizer_Processing.pde.
+And if you'd like to play around with the visualizer app, download Processing and load up Scanbot_Visualizer_Processing.pde. Press "O" once you've opened the app, and you will get a pop-up window asking you to select a file. Choose any of the 2020_x files above to see one of the scans!
 
