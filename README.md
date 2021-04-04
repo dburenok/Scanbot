@@ -1,6 +1,7 @@
 # Scanbot
 
-<img src=https://www.dburenok.com/img/scanbot_full2.jpg width="500" height"300">
+
+<img src="https://www.dburenok.com/img/scanbot_full2.jpg" alt="drawing" width="200"/>
 
 https://www.youtube.com/watch?v=-Bxh61dTs7g
 
