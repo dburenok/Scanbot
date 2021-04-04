@@ -1,5 +1,10 @@
 # Scanbot
 
+![alt text](https://www.dburenok.com/img/scanbot_full2.jpg)
+
+[![alt text](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=-Bxh61dTs7g)
+
+
 Scanbot is an Arduino-ESP32 based 360-degree point-cloud scanner, programmed in C++. It pairs to a computer over bluetooth and performs a full 3D scan of the environment.
 
 Take a look at "Arduino_Project/main/main.ino" for the C++ source file that gets loaded onto the ESP-32.
