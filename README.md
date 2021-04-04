@@ -1,6 +1,6 @@
 # Scanbot
 
-![alt text](https://www.dburenok.com/img/scanbot_full2.jpg =250x)
+![](https://www.dburenok.com/img/scanbot_full2.jpg =250x)
 
 https://www.youtube.com/watch?v=-Bxh61dTs7g
 
